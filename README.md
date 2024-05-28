@@ -24,8 +24,6 @@ Address NaN values by either dropping or filling them with appropriate values.
   - `hr_data.csv`: Original dataset
   - `cleaned_hr_data.csv`: Cleaned dataset
 
-- **scripts/**
-  - `data_cleansing_script.py`: Script containing all the steps for data cleansing
 
 ## Conclusion
 
