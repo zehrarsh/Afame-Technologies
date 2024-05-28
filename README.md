@@ -3,7 +3,7 @@ Project 1
 # HR Data Analysis Project
 ![Alt text](HRDATAANALYTICSPART1.jpeg)
 ![Alt text](HRDATAANALYTICSPART2.jpeg)
-![Alt text](HRDATAANALYTICSPART3.jpeg)
+![Alt text](HRDATAANALYTICSPART3_.jpeg)
 
 
 ## Introduction
