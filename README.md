@@ -1,6 +1,9 @@
 # Afame-Technologies
 Project 1
 # HR Data Analysis Project
+![Alt text](image_url)
+![Alt text](image_url)
+![Alt text](image_url)
 
 ## Introduction
 This project involves a comprehensive data cleansing process for an HR dataset. The goal is to prepare the data for effective analysis by removing irrelevant information, handling missing values, eliminating redundancies, and making other necessary adjustments. This process ensures the dataset is clean, consistent, and ready for further analysis or modeling.
